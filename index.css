@@ -4842,6 +4842,12 @@
 }
  
 @media(max-width: 479px) {
+  .home-text127 {
+    font-size: 28px;
+  }
+  .home-text128 {
+    font-size: 22px;
+  }
   .home-actions1 {
     width: 100%;
     flex-direction: column;

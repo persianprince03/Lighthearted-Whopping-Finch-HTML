@@ -37,12 +37,12 @@
   --dl-layout-size-medium: 96px;
   --dl-layout-size-xlarge: 192px;
   --dl-layout-size-xsmall: 16px;
-  --dl-color-theme-accent1: #D0CECE;
-  --dl-color-theme-accent2: #A4A3A3;
+  --dl-color-theme-accent1: #aed393;
+  --dl-color-theme-accent2: #d8eec5;
   --dl-layout-radius-round: 50%;
   --dl-layout-size-xxlarge: 288px;
-  --dl-color-theme-primary1: #BDE420;
-  --dl-color-theme-primary2: #A3C900;
+  --dl-color-theme-primary1: #426927ff;
+  --dl-color-theme-primary2: #8bab75;
   --dl-layout-size-maxwidth: 1400px;
   --dl-layout-radius-radius2: 2px;
   --dl-layout-radius-radius4: 4px;
@@ -50,12 +50,12 @@
   --dl-layout-space-halfunit: 8px;
   --dl-layout-space-sixunits: 96px;
   --dl-layout-space-twounits: 32px;
-  --dl-color-theme-secondary1: #222222;
-  --dl-color-theme-secondary2: #EFEFEF;
+  --dl-color-theme-secondary1: #FFFFFF;
+  --dl-color-theme-secondary2: #FBF1EB;
   --dl-layout-space-fiveunits: 80px;
   --dl-layout-space-fourunits: 64px;
   --dl-layout-space-threeunits: 48px;
-  --dl-color-theme-neutral-dark: #161616;
+  --dl-color-theme-neutral-dark: #080A45;
   --dl-layout-radius-cardradius: 8px;
   --dl-color-theme-neutral-light: #FFFFFF;
   --dl-layout-radius-imageradius: 8px;
@@ -219,34 +219,34 @@
  
 .thq-heading-1 {
   font-size: 48px;
-  font-family: Hind;
+  font-family: Bricolage Grotesque;
   font-weight: 700;
   line-height: 1.5;
 }
  
 .thq-heading-2 {
   font-size: 35px;
-  font-family: Hind;
+  font-family: Bricolage Grotesque;
   font-weight: 600;
   line-height: 1.5;
 }
  
 .thq-heading-3 {
   font-size: 26px;
-  font-family: Hind;
+  font-family: Bricolage Grotesque;
   font-weight: 600;
   line-height: 1.5;
 }
  
 .thq-body-large {
   font-size: 18px;
-  font-family: Hind;
+  font-family: Bricolage Grotesque;
   line-height: 1.5;
 }
  
 .thq-body-small {
   font-size: 16px;
-  font-family: Hind;
+  font-family: Bricolage Grotesque;
   line-height: 1.5;
 }
  
