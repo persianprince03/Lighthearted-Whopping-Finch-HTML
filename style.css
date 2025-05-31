@@ -578,6 +578,142 @@
  
 
  
+.job-portal-header {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ 
+.job-portal-title {
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  background-color: #46812a;
+}
+ 
+.job-portal-nav {
+  text-align: center;
+  background-color: #746f6f;
+}
+ 
+.job-portal-menu {
+  display: flex;
+  padding: 0.5rem 0;
+  list-style: none;
+  justify-content: center;
+}
+ 
+.job-portal-link {
+  color: white;
+  transition: color 0.3s;
+  font-weight: bold;
+  text-decoration: none;
+}
+ 
+.job-search-section {
+  margin-top: 2rem;
+  text-align: center;
+}
+ 
+.job-search-title {
+  font-size: 24px;
+  margin-bottom: 1rem;
+}
+ 
+.job-search-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.job-search-input {
+  border: 1px solid #ccc;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 4px;
+}
+ 
+.job-search-button {
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+  padding: 10px 20px;
+  transition: background-color 0.3s;
+  border-radius: 4px;
+  background-color: #ff6600;
+}
+ 
+.job-listings-container {
+  margin: 2rem auto;
+  padding: 0 20px;
+  max-width: 800px;
+}
+ 
+.job-listings-title {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+ 
+.job-list {
+  list-style: none;
+}
+ 
+.job-item {
+  border: 1px solid #ccc;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  background-color: white;
+}
+ 
+.job-role {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+ 
+.job-info {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+ 
+.job-apply {
+  color: white;
+  display: inline-block;
+  padding: 10px 20px;
+  transition: background-color 0.3s;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: #333;
+}
+ 
+.job-portal-footer {
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  background-color: #333;
+}
+ 
+
+ 
+.job-portal-menu  li {
+  margin-right: 20px;
+}
+ 
+.job-portal-link:hover {
+  color: #ff6600;
+}
+ 
+.job-search-button:hover {
+  background-color: #c7f1b3;
+}
+ 
+.job-apply:hover {
+  background-color: #ff6600;
+}
+ 
 .Content {
   font-size: 16px;
   font-family: Inter;

@@ -70,6 +70,7 @@
   font-style: normal;
   font-weight: bold;
   margin-right: 0px;
+  text-decoration: none;
 }
  
 .navbar8-thq-dropdown1 {
@@ -163,7 +164,7 @@
   width: 100%;
   cursor: pointer;
   display: flex;
-  font-size: 14px;
+  font-size: 16px;
   font-style: normal;
   font-family: "Hind";
   font-weight: 700;
@@ -1204,6 +1205,10 @@
 .sign-up-text11 {
   display: inline-block;
 }
+ 
+
+ 
+
  
 
  
