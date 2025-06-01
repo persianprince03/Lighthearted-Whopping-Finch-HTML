@@ -415,7 +415,7 @@
   background-color: #595959;
 }
  
-.navbar8-text16 {
+.navbar8-navlink3 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -425,6 +425,7 @@
   font-style: normal;
   font-family: "Hind";
   font-weight: 700;
+  text-decoration: none;
 }
  
 .navbar8-dropdown7 {
@@ -454,7 +455,7 @@
   background-color: #595959;
 }
  
-.navbar8-navlink3 {
+.navbar8-navlink4 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -494,7 +495,7 @@
   background-color: #595959;
 }
  
-.navbar8-text17 {
+.navbar8-text16 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -533,7 +534,7 @@
   background-color: #595959;
 }
  
-.navbar8-text18 {
+.navbar8-text17 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -571,7 +572,7 @@
   text-decoration: none;
 }
  
-.navbar8-text20 {
+.navbar8-text19 {
   color: #000000;
 }
  
@@ -582,7 +583,7 @@
   text-decoration: none;
 }
  
-.navbar8-text21 {
+.navbar8-text20 {
   color: #000000;
 }
  
