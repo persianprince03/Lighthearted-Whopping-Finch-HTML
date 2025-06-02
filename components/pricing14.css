@@ -467,7 +467,7 @@
   border-style: solid;
   border-width: 1px;
   flex-direction: column;
-  background-color: var(--dl-color-theme-accent1);
+  background-color: var(--dl-color-theme-secondary1);
 }
  
 .pricing14-price18 {
@@ -552,7 +552,7 @@
   border-style: solid;
   border-width: 1px;
   flex-direction: column;
-  background-color: var(--dl-color-theme-accent2);
+  background-color: var(--dl-color-theme-secondary1);
 }
  
 .pricing14-price20 {

@@ -45,7 +45,6 @@
 }
  
 .features10-feature2 {
-  height: 449px;
   align-items: flex-start;
 }
  
@@ -73,71 +72,6 @@
   text-decoration: none;
 }
  
-.products-fragment10 {
-  display: contents;
-}
- 
-.products-text24 {
-  display: inline-block;
-}
- 
-.products-fragment11 {
-  display: contents;
-}
- 
-.products-text25 {
-  display: inline-block;
-}
- 
-.products-fragment12 {
-  display: contents;
-}
- 
-.products-text26 {
-  display: inline-block;
-}
- 
-.products-fragment13 {
-  display: contents;
-}
- 
-.products-text27 {
-  display: inline-block;
-  font-size: 70px;
-}
- 
-.products-fragment14 {
-  display: contents;
-}
- 
-.products-text28 {
-  display: inline-block;
-}
- 
-.products-fragment15 {
-  display: contents;
-}
- 
-.products-text29 {
-  display: inline-block;
-}
- 
-.products-fragment16 {
-  display: contents;
-}
- 
-.products-text30 {
-  display: inline-block;
-}
- 
-.products-fragment17 {
-  display: contents;
-}
- 
-.products-text31 {
-  display: inline-block;
-}
- 
 .products-fragment18 {
   display: contents;
 }
@@ -151,6 +85,71 @@
 }
  
 .products-text33 {
+  display: inline-block;
+}
+ 
+.products-fragment10 {
+  display: contents;
+}
+ 
+.products-text24 {
+  display: inline-block;
+}
+ 
+.products-fragment16 {
+  display: contents;
+}
+ 
+.products-text30 {
+  display: inline-block;
+}
+ 
+.products-fragment11 {
+  display: contents;
+}
+ 
+.products-text25 {
+  display: inline-block;
+  font-size: 70px;
+}
+ 
+.products-fragment12 {
+  display: contents;
+}
+ 
+.products-text26 {
+  display: inline-block;
+}
+ 
+.products-fragment14 {
+  display: contents;
+}
+ 
+.products-text28 {
+  display: inline-block;
+}
+ 
+.products-fragment13 {
+  display: contents;
+}
+ 
+.products-text27 {
+  display: inline-block;
+}
+ 
+.products-fragment15 {
+  display: contents;
+}
+ 
+.products-text29 {
+  display: inline-block;
+}
+ 
+.products-fragment17 {
+  display: contents;
+}
+ 
+.products-text31 {
   display: inline-block;
 }
  
@@ -1041,6 +1040,7 @@
  
 .products-text25 {
   display: inline-block;
+  font-size: 70px;
 }
  
 .products-fragment12 {
@@ -1057,7 +1057,6 @@
  
 .products-text27 {
   display: inline-block;
-  font-size: 70px;
 }
  
 .products-fragment14 {

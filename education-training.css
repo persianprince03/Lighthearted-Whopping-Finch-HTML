@@ -1,3 +1,193 @@
+.app-component-wrapper {
+  display: contents;
+}
+ 
+.app-component-container1 {
+  width: 100%;
+  height: 904px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  padding-top: var(--dl-layout-space-fourunits);
+  padding-left: var(--dl-layout-space-twounits);
+  padding-right: var(--dl-layout-space-twounits);
+  padding-bottom: var(--dl-layout-space-fourunits);
+  justify-content: space-between;
+}
+ 
+.app-component-image {
+  width: 495px;
+  height: 536px;
+  align-self: stretch;
+  object-fit: cover;
+}
+ 
+.app-component-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 574px;
+  display: flex;
+  margin-top: 0px;
+  align-items: space-between;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+ 
+.app-component-container3 {
+  flex: 0 0 auto;
+  width: 635px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.app-component-text10 {
+  text-align: left;
+  margin-bottom: var(--dl-layout-space-threeunits);
+}
+ 
+.app-component-text11 {
+  font-size: 22px;
+  align-self: flex-start;
+  margin-top: var(--dl-layout-space-twounits);
+  text-align: left;
+  line-height: 1.5;
+}
+ 
+.app-component-button {
+  margin-top: var(--dl-layout-space-fourunits);
+  font-weight: 700;
+  border-radius: var(--dl-layout-radius-inputradius);
+  background-color: rgb(39, 158, 27);
+}
+ 
+.education-training-fragment2 {
+  display: contents;
+}
+ 
+.education-training-text33 {
+  display: inline-block;
+}
+ 
+.education-training-fragment1 {
+  display: contents;
+}
+ 
+.education-training-text24 {
+  display: inline-block;
+  font-size: 22px;
+  align-self: flex-start;
+  margin-top: var(--dl-layout-space-twounits);
+  text-align: left;
+  line-height: 1.5;
+}
+ 
+.education-training-fragment3 {
+  display: contents;
+}
+ 
+.education-training-text34 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .app-component-container1 {
+    height: 811px;
+    align-items: center;
+    padding-top: var(--dl-layout-space-unit);
+    flex-direction: column;
+    padding-bottom: var(--dl-layout-space-unit);
+    justify-content: center;
+  }
+  .app-component-image {
+    width: 334px;
+    height: 354px;
+    align-self: center;
+    margin-top: 0px;
+    padding-top: var(--dl-layout-space-unit);
+    margin-bottom: var(--dl-layout-space-halfunit);
+    padding-bottom: var(--dl-layout-space-unit);
+  }
+  .app-component-container2 {
+    height: 319px;
+    align-items: stretch;
+    justify-content: space-between;
+  }
+  .app-component-container3 {
+    width: 630px;
+    height: 403px;
+  }
+  .app-component-text10 {
+    margin-top: var(--dl-layout-space-unit);
+    margin-bottom: var(--dl-layout-space-unit);
+  }
+  .app-component-button {
+    margin-top: var(--dl-layout-space-halfunit);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .app-component-container1 {
+    height: 644px;
+    align-items: center;
+    padding-top: 1px;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .app-component-image {
+    margin-top: var(--dl-layout-space-twounits);
+    padding-top: var(--dl-layout-space-twounits);
+  }
+  .app-component-container3 {
+    height: 364px;
+  }
+  .app-component-text10 {
+    margin-bottom: var(--dl-layout-space-halfunit);
+  }
+  .app-component-text11 {
+    margin-top: var(--dl-layout-space-unit);
+  }
+  .education-training-text24 {
+    margin-top: var(--dl-layout-space-unit);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .app-component-container1 {
+    height: 724px;
+    align-self: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .app-component-image {
+    width: 304px;
+    height: 265px;
+    margin-top: var(--dl-layout-space-twounits);
+  }
+  .app-component-container3 {
+    width: 402px;
+    height: 365px;
+  }
+  .app-component-text10 {
+    width: 393px;
+    height: 33px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-layout-space-halfunit);
+  }
+  .app-component-text11 {
+    font-size: 18px;
+  }
+  .education-training-text24 {
+    font-size: 18px;
+  }
+}
+
 .education-training-container1 {
   width: 100%;
   display: flex;
@@ -836,53 +1026,12 @@
   display: flex;
 }
  
-.education-training-container6 {
-  width: 100%;
-  height: 904px;
-  display: flex;
-  align-self: stretch;
-  align-items: flex-start;
-  padding-top: var(--dl-layout-space-fourunits);
-  padding-left: var(--dl-layout-space-twounits);
-  padding-right: var(--dl-layout-space-twounits);
-  padding-bottom: var(--dl-layout-space-fourunits);
-  justify-content: space-between;
-}
- 
-.education-training-image {
-  width: 495px;
-  height: 536px;
-  align-self: stretch;
-  object-fit: cover;
-}
- 
-.education-training-container7 {
-  flex: 0 0 auto;
-  width: auto;
-  height: 574px;
-  display: flex;
-  margin-top: 0px;
-  align-items: space-between;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  flex-direction: column;
-}
- 
-.education-training-container8 {
-  flex: 0 0 auto;
-  width: 635px;
-  height: auto;
-  display: flex;
-  flex-direction: column;
+.education-training-fragment1 {
+  display: contents;
 }
  
 .education-training-text24 {
-  text-align: left;
-  margin-bottom: var(--dl-layout-space-threeunits);
-}
- 
-.education-training-text25 {
+  display: inline-block;
   font-size: 22px;
   align-self: flex-start;
   margin-top: var(--dl-layout-space-twounits);
@@ -890,11 +1039,20 @@
   line-height: 1.5;
 }
  
-.education-training-button {
-  margin-top: var(--dl-layout-space-fourunits);
-  font-weight: 700;
-  border-radius: var(--dl-layout-radius-inputradius);
-  background-color: rgb(39, 158, 27);
+.education-training-fragment2 {
+  display: contents;
+}
+ 
+.education-training-text33 {
+  display: inline-block;
+}
+ 
+.education-training-fragment3 {
+  display: contents;
+}
+ 
+.education-training-text34 {
+  display: inline-block;
 }
  
 @media(max-width: 991px) {
@@ -903,39 +1061,6 @@
   }
   .education-training-burger-menu {
     display: flex;
-  }
-  .education-training-container6 {
-    height: 811px;
-    align-items: center;
-    padding-top: var(--dl-layout-space-unit);
-    flex-direction: column;
-    padding-bottom: var(--dl-layout-space-unit);
-    justify-content: center;
-  }
-  .education-training-image {
-    width: 334px;
-    height: 354px;
-    align-self: center;
-    margin-top: 0px;
-    padding-top: var(--dl-layout-space-unit);
-    margin-bottom: var(--dl-layout-space-halfunit);
-    padding-bottom: var(--dl-layout-space-unit);
-  }
-  .education-training-container7 {
-    height: 319px;
-    align-items: stretch;
-    justify-content: space-between;
-  }
-  .education-training-container8 {
-    width: 630px;
-    height: 403px;
-  }
-  .education-training-text24 {
-    margin-top: var(--dl-layout-space-unit);
-    margin-bottom: var(--dl-layout-space-unit);
-  }
-  .education-training-button {
-    margin-top: var(--dl-layout-space-halfunit);
   }
 }
  
@@ -955,24 +1080,7 @@
   .education-training-container5 {
     grid-gap: 0;
   }
-  .education-training-container6 {
-    height: 644px;
-    align-items: center;
-    padding-top: 1px;
-    flex-direction: column;
-    justify-content: flex-end;
-  }
-  .education-training-image {
-    margin-top: var(--dl-layout-space-twounits);
-    padding-top: var(--dl-layout-space-twounits);
-  }
-  .education-training-container8 {
-    height: 364px;
-  }
   .education-training-text24 {
-    margin-bottom: var(--dl-layout-space-halfunit);
-  }
-  .education-training-text25 {
     margin-top: var(--dl-layout-space-unit);
   }
 }
@@ -984,31 +1092,7 @@
   .education-training-mobile-menu {
     padding: var(--dl-layout-space-unit);
   }
-  .education-training-container6 {
-    height: 724px;
-    align-self: center;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-  }
-  .education-training-image {
-    width: 304px;
-    height: 265px;
-    margin-top: var(--dl-layout-space-twounits);
-  }
-  .education-training-container8 {
-    width: 402px;
-    height: 365px;
-  }
   .education-training-text24 {
-    width: 393px;
-    height: 33px;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-bottom: var(--dl-layout-space-halfunit);
-  }
-  .education-training-text25 {
     font-size: 18px;
   }
 }

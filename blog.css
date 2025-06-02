@@ -76,19 +76,19 @@
   align-items: flex-start;
 }
  
-.blog-fragment1 {
-  display: contents;
-}
- 
-.blog-text24 {
-  display: inline-block;
-}
- 
 .blog-fragment2 {
   display: contents;
 }
  
 .blog-text25 {
+  display: inline-block;
+}
+ 
+.blog-fragment1 {
+  display: contents;
+}
+ 
+.blog-text24 {
   display: inline-block;
 }
  
@@ -175,19 +175,19 @@
   object-fit: cover;
 }
  
-.blog-fragment5 {
-  display: contents;
-}
- 
-.blog-text28 {
-  display: inline-block;
-}
- 
 .blog-fragment6 {
   display: contents;
 }
  
 .blog-text29 {
+  display: inline-block;
+}
+ 
+.blog-fragment5 {
+  display: contents;
+}
+ 
+.blog-text28 {
   display: inline-block;
 }
  
