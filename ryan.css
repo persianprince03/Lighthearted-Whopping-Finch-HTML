@@ -20,6 +20,7 @@
   width: 358px;
   height: 491px;
   max-width: 640px;
+  border-radius: 62px;
 }
  
 .testimonial3-content4 {
@@ -244,131 +245,11 @@
   align-self: center;
 }
  
-.ryan-fragment11 {
-  display: contents;
-}
- 
-.ryan-text36 {
-  display: inline-block;
-}
- 
-.ryan-text39 {
-  font-size: 18px;
-  font-style: italic;
-}
- 
 .ryan-fragment10 {
   display: contents;
 }
  
-.ryan-text31 {
-  display: inline-block;
-}
- 
-.ryan-fragment12 {
-  display: contents;
-}
- 
-.ryan-text41 {
-  color: rgb(69, 69, 72);
-  display: inline-block;
-  font-style: italic;
-  font-family: "Georgia";
-}
- 
-.ryan-fragment13 {
-  display: contents;
-}
- 
-.ryan-text45 {
-  display: inline-block;
-}
- 
-.ryan-fragment14 {
-  display: contents;
-}
- 
-.ryan-text46 {
-  display: inline-block;
-}
- 
-.ryan-fragment15 {
-  display: contents;
-}
- 
-.ryan-text47 {
-  display: inline-block;
-}
- 
-.ryan-fragment16 {
-  display: contents;
-}
- 
-.ryan-text48 {
-  display: inline-block;
-}
- 
-.ryan-fragment17 {
-  display: contents;
-}
- 
-.ryan-text49 {
-  display: inline-block;
-}
- 
-.ryan-fragment18 {
-  display: contents;
-}
- 
-.ryan-text50 {
-  display: inline-block;
-}
- 
-.ryan-fragment19 {
-  display: contents;
-}
- 
-.ryan-text51 {
-  display: inline-block;
-}
- 
-.ryan-fragment20 {
-  display: contents;
-}
- 
-.ryan-text52 {
-  display: inline-block;
-}
- 
-.ryan-fragment21 {
-  display: contents;
-}
- 
-.ryan-text53 {
-  display: inline-block;
-}
- 
-.ryan-fragment22 {
-  display: contents;
-}
- 
-.ryan-text54 {
-  display: inline-block;
-}
- 
-.ryan-fragment23 {
-  display: contents;
-}
- 
-.ryan-text55 {
-  display: inline-block;
-}
- 
-.ryan-fragment24 {
-  display: contents;
-}
- 
-.ryan-text56 {
+.ryan-text29 {
   display: inline-block;
 }
  
@@ -376,23 +257,15 @@
   display: contents;
 }
  
-.ryan-text57 {
+.ryan-text52 {
   display: inline-block;
 }
  
-.ryan-fragment26 {
+.ryan-fragment13 {
   display: contents;
 }
  
-.ryan-text58 {
-  display: inline-block;
-}
- 
-.ryan-fragment27 {
-  display: contents;
-}
- 
-.ryan-text59 {
+.ryan-text32 {
   display: inline-block;
 }
  
@@ -400,15 +273,31 @@
   display: contents;
 }
  
-.ryan-text60 {
+.ryan-text55 {
   display: inline-block;
 }
  
-.ryan-fragment29 {
+.ryan-fragment16 {
   display: contents;
 }
  
-.ryan-text61 {
+.ryan-text35 {
+  display: inline-block;
+}
+ 
+.ryan-fragment27 {
+  display: contents;
+}
+ 
+.ryan-text54 {
+  display: inline-block;
+}
+ 
+.ryan-fragment11 {
+  display: contents;
+}
+ 
+.ryan-text30 {
   display: inline-block;
 }
  
@@ -416,7 +305,84 @@
   display: contents;
 }
  
-.ryan-text62 {
+.ryan-text57 {
+  display: inline-block;
+}
+ 
+.ryan-fragment29 {
+  display: contents;
+}
+ 
+.ryan-text56 {
+  display: inline-block;
+}
+ 
+.ryan-fragment22 {
+  display: contents;
+}
+ 
+.ryan-text45 {
+  display: inline-block;
+}
+ 
+.ryan-fragment12 {
+  display: contents;
+}
+ 
+.ryan-text31 {
+  display: inline-block;
+}
+ 
+.ryan-fragment26 {
+  display: contents;
+}
+ 
+.ryan-text53 {
+  display: inline-block;
+}
+ 
+.ryan-fragment24 {
+  display: contents;
+}
+ 
+.ryan-text47 {
+  display: inline-block;
+}
+ 
+.ryan-text50 {
+  font-size: 18px;
+  font-style: italic;
+}
+ 
+.ryan-fragment21 {
+  display: contents;
+}
+ 
+.ryan-text40 {
+  display: inline-block;
+}
+ 
+.ryan-fragment23 {
+  display: contents;
+}
+ 
+.ryan-text46 {
+  display: inline-block;
+}
+ 
+.ryan-fragment17 {
+  display: contents;
+}
+ 
+.ryan-text36 {
+  display: inline-block;
+}
+ 
+.ryan-fragment18 {
+  display: contents;
+}
+ 
+.ryan-text37 {
   display: inline-block;
 }
  
@@ -424,7 +390,42 @@
   display: contents;
 }
  
-.ryan-text63 {
+.ryan-text58 {
+  color: rgb(69, 69, 72);
+  display: inline-block;
+  font-style: italic;
+  font-family: "Georgia";
+}
+ 
+.ryan-fragment20 {
+  display: contents;
+}
+ 
+.ryan-text39 {
+  display: inline-block;
+}
+ 
+.ryan-fragment15 {
+  display: contents;
+}
+ 
+.ryan-text34 {
+  display: inline-block;
+}
+ 
+.ryan-fragment19 {
+  display: contents;
+}
+ 
+.ryan-text38 {
+  display: inline-block;
+}
+ 
+.ryan-fragment14 {
+  display: contents;
+}
+ 
+.ryan-text33 {
   display: inline-block;
 }
  
@@ -638,7 +639,7 @@
   justify-content: space-between;
 }
  
-.ryan-navlink1 {
+.ryan-navlink10 {
   display: contents;
 }
  
@@ -771,7 +772,7 @@
   background-color: #595959;
 }
  
-.ryan-text11 {
+.ryan-navlink11 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -781,6 +782,7 @@
   font-style: normal;
   font-family: "Hind";
   font-weight: 700;
+  text-decoration: none;
 }
  
 .ryan-dropdown11 {
@@ -810,7 +812,7 @@
   background-color: #595959;
 }
  
-.ryan-text12 {
+.ryan-navlink12 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -820,6 +822,7 @@
   font-style: normal;
   font-family: "Hind";
   font-weight: 700;
+  text-decoration: none;
 }
  
 .ryan-dropdown12 {
@@ -849,7 +852,7 @@
   background-color: #595959;
 }
  
-.ryan-text13 {
+.ryan-text11 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -888,7 +891,7 @@
   background-color: #595959;
 }
  
-.ryan-navlink2 {
+.ryan-navlink13 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -928,7 +931,7 @@
   background-color: #595959;
 }
  
-.ryan-navlink3 {
+.ryan-navlink14 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -968,7 +971,7 @@
   background-color: #595959;
 }
  
-.ryan-navlink4 {
+.ryan-navlink15 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1002,7 +1005,7 @@
   padding-bottom: var(--dl-layout-space-halfunit);
 }
  
-.ryan-text14 {
+.ryan-text12 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   font-size: 16px;
@@ -1069,7 +1072,7 @@
   background-color: #595959;
 }
  
-.ryan-navlink5 {
+.ryan-navlink16 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1109,7 +1112,7 @@
   background-color: #595959;
 }
  
-.ryan-navlink6 {
+.ryan-navlink17 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1149,7 +1152,7 @@
   background-color: #595959;
 }
  
-.ryan-text15 {
+.ryan-text13 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1188,7 +1191,7 @@
   background-color: #595959;
 }
  
-.ryan-text16 {
+.ryan-text14 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1226,7 +1229,7 @@
   text-decoration: none;
 }
  
-.ryan-text18 {
+.ryan-text16 {
   color: #000000;
 }
  
@@ -1237,7 +1240,7 @@
   text-decoration: none;
 }
  
-.ryan-text19 {
+.ryan-text17 {
   color: #000000;
 }
  
@@ -1345,7 +1348,7 @@
   padding-bottom: var(--dl-layout-space-halfunit);
 }
  
-.ryan-text20 {
+.ryan-text18 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   font-size: 16px;
@@ -1410,7 +1413,7 @@
   background-color: #595959;
 }
  
-.ryan-text21 {
+.ryan-text19 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1449,7 +1452,7 @@
   background-color: #595959;
 }
  
-.ryan-text22 {
+.ryan-text20 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1488,7 +1491,7 @@
   background-color: #595959;
 }
  
-.ryan-text23 {
+.ryan-text21 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1527,7 +1530,7 @@
   background-color: #595959;
 }
  
-.ryan-navlink7 {
+.ryan-navlink18 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1567,7 +1570,7 @@
   background-color: #595959;
 }
  
-.ryan-text24 {
+.ryan-text22 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1600,7 +1603,7 @@
   padding-bottom: var(--dl-layout-space-halfunit);
 }
  
-.ryan-text25 {
+.ryan-text23 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   font-size: 16px;
@@ -1667,7 +1670,7 @@
   background-color: #595959;
 }
  
-.ryan-text26 {
+.ryan-text24 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1706,7 +1709,7 @@
   background-color: #595959;
 }
  
-.ryan-navlink8 {
+.ryan-navlink19 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1746,7 +1749,7 @@
   background-color: #595959;
 }
  
-.ryan-text27 {
+.ryan-text25 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1785,7 +1788,7 @@
   background-color: #595959;
 }
  
-.ryan-text28 {
+.ryan-text26 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   width: 100%;
@@ -1814,7 +1817,7 @@
   display: contents;
 }
  
-.ryan-text31 {
+.ryan-text29 {
   display: inline-block;
 }
  
@@ -1822,31 +1825,23 @@
   display: contents;
 }
  
-.ryan-text36 {
+.ryan-text30 {
   display: inline-block;
-}
- 
-.ryan-text39 {
-  font-size: 18px;
-  font-style: italic;
 }
  
 .ryan-fragment12 {
   display: contents;
 }
  
-.ryan-text41 {
-  color: rgb(69, 69, 72);
+.ryan-text31 {
   display: inline-block;
-  font-style: italic;
-  font-family: "Georgia";
 }
  
 .ryan-fragment13 {
   display: contents;
 }
  
-.ryan-text45 {
+.ryan-text32 {
   display: inline-block;
 }
  
@@ -1854,7 +1849,7 @@
   display: contents;
 }
  
-.ryan-text46 {
+.ryan-text33 {
   display: inline-block;
 }
  
@@ -1862,7 +1857,7 @@
   display: contents;
 }
  
-.ryan-text47 {
+.ryan-text34 {
   display: inline-block;
 }
  
@@ -1870,7 +1865,7 @@
   display: contents;
 }
  
-.ryan-text48 {
+.ryan-text35 {
   display: inline-block;
 }
  
@@ -1878,7 +1873,7 @@
   display: contents;
 }
  
-.ryan-text49 {
+.ryan-text36 {
   display: inline-block;
 }
  
@@ -1886,7 +1881,7 @@
   display: contents;
 }
  
-.ryan-text50 {
+.ryan-text37 {
   display: inline-block;
 }
  
@@ -1894,7 +1889,7 @@
   display: contents;
 }
  
-.ryan-text51 {
+.ryan-text38 {
   display: inline-block;
 }
  
@@ -1902,7 +1897,7 @@
   display: contents;
 }
  
-.ryan-text52 {
+.ryan-text39 {
   display: inline-block;
 }
  
@@ -1910,7 +1905,7 @@
   display: contents;
 }
  
-.ryan-text53 {
+.ryan-text40 {
   display: inline-block;
 }
  
@@ -1918,7 +1913,7 @@
   display: contents;
 }
  
-.ryan-text54 {
+.ryan-text45 {
   display: inline-block;
 }
  
@@ -1926,7 +1921,7 @@
   display: contents;
 }
  
-.ryan-text55 {
+.ryan-text46 {
   display: inline-block;
 }
  
@@ -1934,15 +1929,20 @@
   display: contents;
 }
  
-.ryan-text56 {
+.ryan-text47 {
   display: inline-block;
+}
+ 
+.ryan-text50 {
+  font-size: 18px;
+  font-style: italic;
 }
  
 .ryan-fragment25 {
   display: contents;
 }
  
-.ryan-text57 {
+.ryan-text52 {
   display: inline-block;
 }
  
@@ -1950,7 +1950,7 @@
   display: contents;
 }
  
-.ryan-text58 {
+.ryan-text53 {
   display: inline-block;
 }
  
@@ -1958,7 +1958,7 @@
   display: contents;
 }
  
-.ryan-text59 {
+.ryan-text54 {
   display: inline-block;
 }
  
@@ -1966,7 +1966,7 @@
   display: contents;
 }
  
-.ryan-text60 {
+.ryan-text55 {
   display: inline-block;
 }
  
@@ -1974,7 +1974,7 @@
   display: contents;
 }
  
-.ryan-text61 {
+.ryan-text56 {
   display: inline-block;
 }
  
@@ -1982,7 +1982,7 @@
   display: contents;
 }
  
-.ryan-text62 {
+.ryan-text57 {
   display: inline-block;
 }
  
@@ -1990,8 +1990,11 @@
   display: contents;
 }
  
-.ryan-text63 {
+.ryan-text58 {
+  color: rgb(69, 69, 72);
   display: inline-block;
+  font-style: italic;
+  font-family: "Georgia";
 }
  
 @media(max-width: 991px) {

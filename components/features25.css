@@ -202,6 +202,10 @@
   background-color: #ffffff;
 }
  
+.features25root-class-name1 {
+  background-color: #ffffff;
+}
+ 
 @media(max-width: 991px) {
   .features25-container2 {
     grid-gap: var(--dl-layout-space-twounits);

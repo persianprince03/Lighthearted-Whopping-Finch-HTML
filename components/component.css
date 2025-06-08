@@ -1,6 +1,6 @@
 .component-container1 {
   width: 100%;
-  height: 904px;
+  height: 687px;
   display: flex;
   position: relative;
   align-self: stretch;
@@ -13,7 +13,7 @@
 }
  
 .component-image {
-  width: 495px;
+  width: 473px;
   height: 536px;
   align-self: stretch;
   object-fit: cover;
@@ -45,26 +45,36 @@
   margin-bottom: var(--dl-layout-space-threeunits);
 }
  
-.component-text11 {
-  font-size: 22px;
-  align-self: flex-start;
-  margin-top: var(--dl-layout-space-twounits);
-  text-align: left;
-  line-height: 1.5;
+.component-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
 }
  
-.component-button {
-  margin-top: var(--dl-layout-space-fourunits);
-  font-weight: 700;
-  border-radius: var(--dl-layout-radius-inputradius);
-  background-color: rgb(39, 158, 27);
+.component-text12 {
+  height: 69px;
+}
+ 
+.component-content2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 614px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.component-text14 {
+  height: 69px;
 }
  
 .component-fragment1 {
   display: contents;
 }
  
-.component-text13 {
+.component-text15 {
   display: inline-block;
 }
  
@@ -72,21 +82,35 @@
   display: contents;
 }
  
-.component-text14 {
+.component-text16 {
   display: inline-block;
-  font-size: 22px;
-  align-self: flex-start;
-  margin-top: var(--dl-layout-space-twounits);
-  text-align: left;
-  line-height: 1.5;
 }
  
 .component-fragment3 {
   display: contents;
 }
  
-.component-text23 {
+.component-text17 {
   display: inline-block;
+}
+ 
+.component-fragment4 {
+  display: contents;
+}
+ 
+.component-text18 {
+  display: inline-block;
+}
+ 
+.component-fragment5 {
+  display: contents;
+}
+ 
+.component-text19 {
+  display: inline-block;
+  font-size: 42px;
+  font-style: italic;
+  text-decoration: underline;
 }
  
 @media(max-width: 991px) {
@@ -120,9 +144,6 @@
     margin-top: var(--dl-layout-space-unit);
     margin-bottom: var(--dl-layout-space-unit);
   }
-  .component-button {
-    margin-top: var(--dl-layout-space-halfunit);
-  }
 }
  
 @media(max-width: 767px) {
@@ -142,12 +163,6 @@
   }
   .component-text10 {
     margin-bottom: var(--dl-layout-space-halfunit);
-  }
-  .component-text11 {
-    margin-top: var(--dl-layout-space-unit);
-  }
-  .component-text14 {
-    margin-top: var(--dl-layout-space-unit);
   }
 }
  
@@ -175,11 +190,5 @@
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-layout-space-halfunit);
-  }
-  .component-text11 {
-    font-size: 18px;
-  }
-  .component-text14 {
-    font-size: 18px;
   }
 }

@@ -333,7 +333,6 @@
  
 .timeline5-text35 {
   display: inline-block;
-  font-weight: 700;
 }
  
 .timeline5-fragment13 {
@@ -352,23 +351,20 @@
   display: inline-block;
 }
  
-.timeline5-text42 {
-  font-style: italic;
-}
- 
 .timeline5-fragment15 {
   display: contents;
 }
  
-.timeline5-text44 {
+.timeline5-text38 {
   display: inline-block;
+  font-weight: 700;
 }
  
 .timeline5-fragment16 {
   display: contents;
 }
  
-.timeline5-text45 {
+.timeline5-text39 {
   display: inline-block;
 }
  
@@ -376,7 +372,7 @@
   display: contents;
 }
  
-.timeline5-text46 {
+.timeline5-text40 {
   display: inline-block;
 }
  
@@ -384,7 +380,7 @@
   display: contents;
 }
  
-.timeline5-text47 {
+.timeline5-text41 {
   display: inline-block;
 }
  
@@ -392,7 +388,7 @@
   display: contents;
 }
  
-.timeline5-text48 {
+.timeline5-text42 {
   display: inline-block;
 }
  
@@ -400,7 +396,7 @@
   display: contents;
 }
  
-.timeline5-text49 {
+.timeline5-text43 {
   display: inline-block;
 }
  
@@ -408,7 +404,7 @@
   display: contents;
 }
  
-.timeline5-text50 {
+.timeline5-text44 {
   display: inline-block;
 }
  
@@ -416,7 +412,7 @@
   display: contents;
 }
  
-.timeline5-text51 {
+.timeline5-text45 {
   display: inline-block;
 }
  
@@ -424,7 +420,7 @@
   display: contents;
 }
  
-.timeline5-text52 {
+.timeline5-text46 {
   display: inline-block;
 }
  
@@ -432,7 +428,7 @@
   display: contents;
 }
  
-.timeline5-text53 {
+.timeline5-text47 {
   display: inline-block;
 }
  
@@ -440,8 +436,12 @@
   display: contents;
 }
  
-.timeline5-text54 {
+.timeline5-text48 {
   display: inline-block;
+}
+ 
+.timeline5-text53 {
+  font-style: italic;
 }
  
 .timeline5-fragment26 {
