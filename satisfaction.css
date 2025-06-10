@@ -132,43 +132,6 @@
   text-align: center;
 }
  
-.contact14-content7 {
-  gap: var(--dl-layout-space-oneandhalfunits);
-  flex: 1;
-  width: auto;
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
-  flex-direction: column;
-}
- 
-.contact14-image4 {
-  width: 200px;
-  height: 156px;
-  object-fit: cover;
-}
- 
-.contact14-contact-info4 {
-  gap: var(--dl-layout-space-oneandhalfunits);
-  display: flex;
-  align-self: stretch;
-  align-items: center;
-  flex-direction: column;
-}
- 
-.contact14-content8 {
-  gap: var(--dl-layout-space-unit);
-  display: flex;
-  align-self: stretch;
-  align-items: center;
-  flex-direction: column;
-}
- 
-.contact14-text13 {
-  align-self: stretch;
-  text-align: center;
-}
- 
 .satisfaction-fragment1 {
   display: contents;
 }
@@ -178,7 +141,7 @@
 }
  
 .satisfaction-text11 {
-  font-size: 32px;
+  font-size: 36px;
   font-weight: 700;
 }
  
@@ -192,6 +155,14 @@
  
 .satisfaction-text14 {
   display: inline-block;
+}
+ 
+.satisfaction-text15 {
+  font-size: 36px;
+  font-weight: 700;
+}
+ 
+.satisfaction-text17 {
   font-size: 18px;
 }
  
@@ -199,33 +170,16 @@
   display: contents;
 }
  
-.satisfaction-text17 {
+.satisfaction-text18 {
   display: inline-block;
 }
  
-.satisfaction-text18 {
-  font-size: 32px;
+.satisfaction-text19 {
+  font-size: 36px;
   font-weight: 700;
-}
- 
-.satisfaction-text20 {
-  font-size: 18px;
-}
- 
-.satisfaction-fragment4 {
-  display: contents;
 }
  
 .satisfaction-text21 {
-  display: inline-block;
-}
- 
-.satisfaction-text22 {
-  font-size: 32px;
-  font-weight: 700;
-}
- 
-.satisfaction-text24 {
   font-size: 18px;
 }
  
@@ -258,7 +212,7 @@
 }
  
 .satisfaction-text11 {
-  font-size: 32px;
+  font-size: 36px;
   font-weight: 700;
 }
  
@@ -272,6 +226,14 @@
  
 .satisfaction-text14 {
   display: inline-block;
+}
+ 
+.satisfaction-text15 {
+  font-size: 36px;
+  font-weight: 700;
+}
+ 
+.satisfaction-text17 {
   font-size: 18px;
 }
  
@@ -279,32 +241,15 @@
   display: contents;
 }
  
-.satisfaction-text17 {
+.satisfaction-text18 {
   display: inline-block;
 }
  
-.satisfaction-text18 {
-  font-size: 32px;
+.satisfaction-text19 {
+  font-size: 36px;
   font-weight: 700;
-}
- 
-.satisfaction-text20 {
-  font-size: 18px;
-}
- 
-.satisfaction-fragment4 {
-  display: contents;
 }
  
 .satisfaction-text21 {
-  display: inline-block;
-}
- 
-.satisfaction-text22 {
-  font-size: 32px;
-  font-weight: 700;
-}
- 
-.satisfaction-text24 {
   font-size: 18px;
 }

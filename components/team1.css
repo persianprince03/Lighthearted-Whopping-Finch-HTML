@@ -70,9 +70,15 @@
   flex-direction: column;
 }
  
+.team1-navlink1 {
+  display: contents;
+}
+ 
 .team1-placeholder-image1 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  text-decoration: none;
 }
  
 .team1-content13 {
@@ -109,6 +115,14 @@
   align-items: flex-start;
 }
  
+.team1-link1 {
+  display: contents;
+}
+ 
+.team1-icon10 {
+  text-decoration: none;
+}
+ 
 .team1-card2 {
   gap: var(--dl-layout-space-oneandhalfunits);
   flex: 1;
@@ -122,8 +136,8 @@
 }
  
 .team1-placeholder-image2 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
  
 .team1-content14 {
@@ -181,8 +195,8 @@
 }
  
 .team1-placeholder-image3 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
  
 .team1-content15 {
@@ -231,9 +245,14 @@
   flex-direction: column;
 }
  
+.team1-navlink2 {
+  display: contents;
+}
+ 
 .team1-placeholder-image4 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
+  text-decoration: none;
 }
  
 .team1-content16 {
@@ -300,8 +319,8 @@
 }
  
 .team1-placeholder-image5 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
  
 .team1-content17 {
@@ -350,13 +369,13 @@
   flex-direction: column;
 }
  
-.team1-navlink {
+.team1-navlink3 {
   display: contents;
 }
  
 .team1-placeholder-image6 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   text-decoration: none;
 }
  
@@ -395,7 +414,7 @@
   align-items: flex-start;
 }
  
-.team1-link {
+.team1-link2 {
   display: contents;
 }
  
@@ -423,9 +442,14 @@
   flex-direction: column;
 }
  
+.team1-navlink4 {
+  display: contents;
+}
+ 
 .team1-placeholder-image7 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
+  text-decoration: none;
 }
  
 .team1-content19 {
@@ -462,6 +486,14 @@
   align-items: flex-start;
 }
  
+.team1-link3 {
+  display: contents;
+}
+ 
+.team1-icon34 {
+  text-decoration: none;
+}
+ 
 .team1-card8 {
   gap: var(--dl-layout-space-oneandhalfunits);
   flex: 1;
@@ -475,8 +507,8 @@
 }
  
 .team1-placeholder-image8 {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
  
 .team1-content20 {
