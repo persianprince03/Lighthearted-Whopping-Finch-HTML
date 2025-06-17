@@ -1,0 +1,139 @@
+.features2-layout302 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: var(--dl-layout-space-unit);
+  padding-left: var(--dl-layout-space-fourunits);
+  padding-right: var(--dl-layout-space-fourunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-unit);
+}
+ 
+.features2-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features2-section-title {
+  align-items: flex-start;
+}
+ 
+.features2-content1 {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features2-row {
+  align-self: flex-start;
+}
+ 
+.features2-feature1 {
+  align-items: flex-start;
+}
+ 
+.features2-feature2 {
+  align-items: flex-start;
+}
+ 
+.features2-feature3 {
+  align-items: flex-start;
+}
+ 
+.features2-feature4 {
+  align-items: flex-start;
+}
+ 
+.features2-fragment10 {
+  display: contents;
+}
+ 
+.features2-text12 {
+  display: inline-block;
+}
+ 
+.features2-fragment11 {
+  display: contents;
+}
+ 
+.features2-text13 {
+  display: inline-block;
+}
+ 
+.features2-fragment12 {
+  display: contents;
+}
+ 
+.features2-text14 {
+  display: inline-block;
+}
+ 
+.features2-fragment13 {
+  display: contents;
+}
+ 
+.features2-text15 {
+  display: inline-block;
+}
+ 
+.features2-fragment14 {
+  display: contents;
+}
+ 
+.features2-text16 {
+  display: inline-block;
+}
+ 
+.features2-fragment15 {
+  display: contents;
+}
+ 
+.features2-text17 {
+  display: inline-block;
+}
+ 
+.features2-fragment16 {
+  display: contents;
+}
+ 
+.features2-text18 {
+  display: inline-block;
+}
+ 
+.features2-fragment17 {
+  display: contents;
+}
+ 
+.features2-text19 {
+  display: inline-block;
+}
+ 
+.features2-fragment18 {
+  display: contents;
+}
+ 
+.features2-text20 {
+  display: inline-block;
+}
+ 
+.features2-fragment19 {
+  display: contents;
+}
+ 
+.features2-text21 {
+  display: inline-block;
+}
+ 
+@media(max-width: 479px) {
+  .features2-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+}

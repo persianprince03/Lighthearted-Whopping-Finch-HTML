@@ -211,6 +211,7 @@
  
 .features24-text5 {
   display: inline-block;
+  font-size: 46px;
 }
  
 .features24-fragment6 {
@@ -227,7 +228,6 @@
  
 .features24-text7 {
   display: inline-block;
-  font-size: 46px;
 }
  
 @media(max-width: 991px) {

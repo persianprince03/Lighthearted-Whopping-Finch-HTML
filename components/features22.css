@@ -4,6 +4,7 @@
   overflow: hidden;
   position: relative;
   align-items: center;
+  padding-top: var(--dl-layout-space-halfunit);
   flex-direction: column;
 }
  
@@ -242,13 +243,13 @@
  
 .features22-card20 {
   color: var(--dl-color-theme-neutral-light);
-  height: auto;
+  height: 463px;
   display: flex;
   align-self: flex-start;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-color: var(--dl-color-theme-primary1);
+  background-color: var(--dl-color-theme-primary2);
 }
  
 .features22-image20 {
@@ -284,13 +285,13 @@
  
 .features22-card22 {
   color: var(--dl-color-theme-neutral-light);
-  height: auto;
+  height: 463px;
   display: flex;
   align-self: flex-start;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-color: var(--dl-color-theme-primary1);
+  background-color: var(--dl-color-theme-primary2);
 }
  
 .features22-image22 {
@@ -305,13 +306,13 @@
  
 .features22-card23 {
   color: var(--dl-color-theme-neutral-light);
-  height: auto;
+  height: 463px;
   display: flex;
   align-self: flex-start;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-color: var(--dl-color-theme-primary1);
+  background-color: var(--dl-color-theme-primary2);
 }
  
 .features22-image23 {
@@ -326,7 +327,7 @@
  
 .features22-card24 {
   color: var(--dl-color-theme-neutral-light);
-  height: auto;
+  height: 463px;
   display: flex;
   align-self: flex-start;
   align-items: center;
@@ -347,13 +348,13 @@
  
 .features22-card25 {
   color: var(--dl-color-theme-neutral-light);
-  height: auto;
+  height: 463px;
   display: flex;
   align-self: flex-start;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-color: var(--dl-color-theme-primary1);
+  background-color: var(--dl-color-theme-primary2);
 }
  
 .features22-image25 {
@@ -368,7 +369,7 @@
  
 .features22-card26 {
   color: var(--dl-color-theme-neutral-light);
-  height: auto;
+  height: 463px;
   display: flex;
   align-self: flex-start;
   align-items: center;

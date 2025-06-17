@@ -28,6 +28,7 @@
  
 .testimonial4-column1 {
   flex: 1;
+  height: 358px;
   align-items: flex-start;
   border-color: var(--dl-color-theme-neutral-dark);
   border-style: solid;
@@ -68,6 +69,7 @@
  
 .testimonial4-column2 {
   flex: 1;
+  height: 359px;
   align-items: flex-start;
   border-color: var(--dl-color-theme-neutral-dark);
   border-style: solid;
@@ -108,6 +110,7 @@
  
 .testimonial4-column3 {
   flex: 1;
+  height: 358px;
   align-items: flex-start;
   border-color: var(--dl-color-theme-neutral-dark);
   border-style: solid;

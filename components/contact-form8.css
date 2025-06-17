@@ -165,11 +165,6 @@
   display: inline-block;
 }
  
-.contact-form8root-class-name {
-  align-self: center;
-  margin-right: var(--dl-layout-space-unit);
-}
- 
 @media(max-width: 991px) {
   .contact-form8-max-width {
     align-items: flex-start;

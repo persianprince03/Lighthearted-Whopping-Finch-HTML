@@ -2138,6 +2138,7 @@
 .meet-our-team-placeholder-image6 {
   width: 200px;
   height: 200px;
+  object-fit: contain;
   text-decoration: none;
 }
  
